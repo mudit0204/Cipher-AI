@@ -1,0 +1,13 @@
+instaloader==4.15.1
+yt-dlp
+faster-whisper
+easyocr
+groq
+google-generativeai
+sqlalchemy
+pandas
+streamlit
+plotly
+python-dotenv
+pillow
+requests

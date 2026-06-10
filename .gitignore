@@ -1,0 +1,24 @@
+# Secrets
+.env
+instagram_cookies.txt
+
+# Database
+*.db
+
+# Data artifacts
+data/
+*.session
+*.session-*
+tools/ffmpeg/*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
